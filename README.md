@@ -5,4 +5,4 @@ My task was to provide geographic insights on Mercy's patients. Alongside a part
 
 After creating a map of Tennessee, we inquired about patients who came outside the state of Tennessee. Just like with the graph of Tennessee, we created a density map of the United States that highlighted which states patients were coming from.
 
-Doing these projects helped to contribute to a better understanding of Mercy Healthcare's patients. It was our goal to alleviate some of their administrative work in analyzing patient demographics. 
+Doing these projects helped to contribute to a better understanding of Mercy Healthcare's patients. It was our goal to alleviate some of their administrative work in analyzing patient demographics. Skills I was able to learn was creating visualizations with map, as well as learning to work with confidential patient data. If I were to make any changes on the project it would be to gain more understanding on how accessible this healthcare service is to the patients. Is the location convenient for patients, and are they receiving the necessary care?
